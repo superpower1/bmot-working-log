@@ -1,0 +1,11 @@
+Things done:
+1. Add navbar to the website and change the css setting to match the previous website
+2. Add the 5 steps section with Icon Featrue
+3. Use Slider Revolution to create the front page image
+4. Add additional css in Visual composer to move the front page image up
+5. Try fix the links (try enable mod_headers in apache but failed)
+
+
+Todo List:
+1. Fix the links of the local website (.htaccess file problem)
+2. Continue editing home page (add Membership section & footer)
