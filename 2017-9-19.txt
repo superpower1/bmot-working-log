@@ -1,0 +1,10 @@
+Things done:
+1. Add membership section
+2. Edit footer through widgets in wordpress appearance
+3. Use Highend theme's widget to import social media instead of jucier
+4. Change the color of the theme (icon color is in Accent Color setting)
+
+
+Todo List:
+1. Fix the links of the local website (.htaccess file problem)
+2. Work with Indar to put his SPA into the home page
