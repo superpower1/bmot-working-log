@@ -1,0 +1,6 @@
+Things done:
+1. Fixed the broken links problem of the local wordpress (The problem is with my apache setting, it was fixed after I enabled LoadModule rewrite_module modules/mod_rewrite.so in htttpd.conf)
+
+Todo List:
+1. Work with Indar to put his SPA into the home page
+2. Start working 
