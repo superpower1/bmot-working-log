@@ -1,0 +1,11 @@
+Things done:
+1. Uploaded the database from my local server to the actual website
+2. Fixed bugs from the transfering
+3. Add E-news and Coummunity featrue to Membership section and change the content
+4. Work with Inder to make a home page template for the homepage (page-home.php)
+5. Made a countdown for the home page template
+
+Todo List:
+1. Work with Indar to put his SPA into the home page
+2. Continue working on fixing bugs for the home page and add more animation effects using javascript
+3. Import jQuery into wordpress 
