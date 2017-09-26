@@ -1,0 +1,9 @@
+Things done:
+1. Change Icon color to blue
+2. Change the "Membersip" font size so it can fit in small mobile screen
+3. Gave special header style to home page so the navbar can disapear only in homepage
+4. Work with Inder to give the countdown @media style for small mobile screen 
+
+Todo List:
+1. Setup sftp for sublime  
+2. Make a title image template for normal pages 
