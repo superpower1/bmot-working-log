@@ -3,7 +3,9 @@ Things done:
 2. Change the "Membersip" font size so it can fit in small mobile screen
 3. Gave special header style to home page so the navbar can disapear only in homepage
 4. Work with Inder to give the countdown @media style for small mobile screen 
+5. Delete the Additional css in Customize to make navbar non-transparent
 
 Todo List:
 1. Setup sftp for sublime  
 2. Make a title image template for normal pages 
+3. Make each of the countdown box same size and use grid system to manage its layout in different size screen
