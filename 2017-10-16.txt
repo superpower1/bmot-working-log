@@ -1,0 +1,8 @@
+Things done:
+1. Fix some missing style after migrating
+2. Fix the count-down box size for all 
+3. Setup Quick start SPA on my local host 
+4. Setup FTP for Atom with the new account
+
+Todo List:
+1. Work on Quick start SPA

@@ -1,0 +1,7 @@
+Things done:
+1. Fix the arrow button
+2. Fix the count-down box size for all screen size
+3. Make the Accordion an react app (on going)
+
+Todo List:
+1. Continue to work on Accordion
